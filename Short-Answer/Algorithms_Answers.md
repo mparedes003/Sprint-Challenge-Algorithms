@@ -6,7 +6,7 @@ a) O(n) A single loop is O(n).
 
 b) O(n^2) There is a nested while loop inside a for loop. The inner loop has a complexity O(n) and it is run n times.
 
-c) O(n)
+c) O(n) It is a recursive function that calls itself.
 
 ## Exercise II
 
